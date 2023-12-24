@@ -4,8 +4,8 @@ I'm Malinda, a passionate junior software developer enthusiastic about crafting 
 
 
 
-(https://github-readme-stats.vercel.app/api?username=kmsarachchi&theme=dracula&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmsarachchi&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmsarachchi&theme=dracula&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmsarachchi&theme=dracula&show_icons=true)
 <!--
 **kmsarachchi/kmsarachchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
