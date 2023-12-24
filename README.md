@@ -5,9 +5,9 @@ Proficient in HTML,CSS,Javascript,Jquery,React,Anguler,Php,Python,..etc. I enjoy
 Actively seeking opportunities to collaborate, I'm open to learning new technologies and methodologies to enhance my skill set.
 
 
-🔗 Check out some of my projects below to see what I've been working on!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmsarachchi&theme=radical_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmsarachchi&theme=dracula&show_icons=true)
 <!--
 **kmsarachchi/kmsarachchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
