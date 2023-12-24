@@ -1,9 +1,9 @@
-### Hi there 👋
-👋 Hello there! I'm Malinda, a passionate junior software developer enthusiastic about crafting innovative solutions.
-🚀 Currently exploring the realms of software development, I'm eager to learn and grow while contributing to exciting projects.
-💻 Proficient in HTML,CSS,Javascript,Jquery,React,Anguler,Php,Python,..etc. I enjoy tackling challenges and writing clean, efficient code.
-🌱 Actively seeking opportunities to collaborate, I'm open to learning new technologies and methodologies to enhance my skill set.
-📫 Let's connect! Feel free to reach out for discussions, collaborations, or to share insights. You can find me on LinkedIn (https://www.linkedin.com/in/kasun-malinda-59a145168/) as well.
+### Hello there! 👋
+I'm Malinda, a passionate junior software developer enthusiastic about crafting innovative solutions.
+Currently exploring the realms of software development, I'm eager to learn and grow while contributing to exciting projects.
+Proficient in HTML,CSS,Javascript,Jquery,React,Anguler,Php,Python,..etc. I enjoy tackling challenges and writing clean, efficient code.
+Actively seeking opportunities to collaborate, I'm open to learning new technologies and methodologies to enhance my skill set.
+
 
 🔗 Check out some of my projects below to see what I've been working on!
 
